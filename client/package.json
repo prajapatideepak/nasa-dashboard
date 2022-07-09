@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "arwes": "^1.0.0-alpha.5",
+    "nasa-dashboard": "file:..",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
