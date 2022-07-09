@@ -7,7 +7,7 @@
     "server": "npm run watch --prefix server",
     "client": "npm start --prefix client",
     "watch": "concurrently \"npm run server\"  \"npm run client\" ",
-    "install": "npm install --prefix server && npm install --prefix client && npm install",
+    "install": "npm install --prefix server && npm install --prefix client",
     "deploy": "npm run build --prefix client && npm start --prefix server",
     "build":"npm run install && npm run deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
