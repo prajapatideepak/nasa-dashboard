@@ -1,6 +1,6 @@
 # Nasa-Dashboard
-    NASA - dashboard is simulator of nasa for educational purpose 
-    in this project we have find 8 planets where we can live from NASA and space-x offical data 
+  NASA - dashboard is simulator of nasa for educational purpose 
+  in this project we have find 8 planets where we can live from NASA and space-x offical data 
 
 ## Project Architecture  
 
@@ -10,5 +10,6 @@
 ## Installion Guide :tada:
 
   * git clone or Download ZIP File
-  * open Terminal and type npm run install
+  * open Terminal and type
+            npm install
  
